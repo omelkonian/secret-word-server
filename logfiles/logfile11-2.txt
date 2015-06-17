@@ -1,0 +1,10 @@
+Thread 2885004096:
+    Words checked: 41843920
+    Words already checked percentage: 56.2852 %
+    Secret word: vahffhnxnximqaxrvwzshybbndcut
+
+Thread 2893396800:
+    Words checked: 42036437
+    Words already checked percentage: 55.555 %
+    Secret word: 
+

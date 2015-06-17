@@ -1,0 +1,10 @@
+Thread 2893085504:
+    Words checked: 9232029
+    Words already checked percentage: 27.2761 %
+    Secret word: lzeomlfsfqlinbbledgkgbkgwvoqf
+
+Thread 2884692800:
+    Words checked: 9215949
+    Words already checked percentage: 27.4345 %
+    Secret word: 
+

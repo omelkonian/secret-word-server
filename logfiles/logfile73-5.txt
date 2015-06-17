@@ -1,0 +1,25 @@
+Thread 2876377920:
+    Words checked: 1776411
+    Words already checked percentage: 52.328 %
+    Secret word: uytxctbuumlqcgpikstuhlalcerup
+
+Thread 2884770624:
+    Words checked: 1703221
+    Words already checked percentage: 51.7854 %
+    Secret word: 
+
+Thread 2893163328:
+    Words checked: 1818843
+    Words already checked percentage: 55.961 %
+    Secret word: 
+
+Thread 2857495360:
+    Words checked: 1675408
+    Words already checked percentage: 50.4001 %
+    Secret word: 
+
+Thread 2867985216:
+    Words checked: 1832003
+    Words already checked percentage: 51.0044 %
+    Secret word: 
+

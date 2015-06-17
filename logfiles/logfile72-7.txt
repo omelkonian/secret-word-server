@@ -1,0 +1,35 @@
+Thread 2893871936:
+    Words checked: 3837886
+    Words already checked percentage: 52.6076 %
+    Secret word: stdjkhnybojohpqxyemjopjthfoft
+
+Thread 2877086528:
+    Words checked: 4561173
+    Words already checked percentage: 54.4898 %
+    Secret word: 
+
+Thread 2858416960:
+    Words checked: 3812492
+    Words already checked percentage: 53.0386 %
+    Secret word: 
+
+Thread 2885479232:
+    Words checked: 4509803
+    Words already checked percentage: 52.9469 %
+    Secret word: 
+
+Thread 2845834048:
+    Words checked: 3889283
+    Words already checked percentage: 55.8119 %
+    Secret word: 
+
+Thread 2837441344:
+    Words checked: 4319634
+    Words already checked percentage: 59.7929 %
+    Secret word: 
+
+Thread 2868693824:
+    Words checked: 4290891
+    Words already checked percentage: 53.59 %
+    Secret word: 
+

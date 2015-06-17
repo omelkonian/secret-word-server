@@ -1,0 +1,10 @@
+Thread 2885458752:
+    Words checked: 356491
+    Words already checked percentage: 26.8618 %
+    Secret word: dodpgebeamxdvfycdkdwvqeiuvusk
+
+Thread 2893851456:
+    Words checked: 518419
+    Words already checked percentage: 28.5134 %
+    Secret word: 
+

@@ -1,0 +1,30 @@
+Thread 2850974528:
+    Words checked: 1205159
+    Words already checked percentage: 28.5849 %
+    Secret word: wokjvbtnxwdjdtuunnzveandzawfg
+
+Thread 2884545344:
+    Words checked: 1208447
+    Words already checked percentage: 28.4535 %
+    Secret word: 
+
+Thread 2867759936:
+    Words checked: 1176157
+    Words already checked percentage: 29.7202 %
+    Secret word: 
+
+Thread 2859367232:
+    Words checked: 1212639
+    Words already checked percentage: 29.7565 %
+    Secret word: 
+
+Thread 2892938048:
+    Words checked: 1156468
+    Words already checked percentage: 28.3162 %
+    Secret word: 
+
+Thread 2876152640:
+    Words checked: 1163888
+    Words already checked percentage: 28.8763 %
+    Secret word: 
+

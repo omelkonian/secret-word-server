@@ -1,0 +1,25 @@
+Thread 2893503296:
+    Words checked: 527095
+    Words already checked percentage: 24.5402 %
+    Secret word: hdbdevlvegqdzgzkenawplxttfpus
+
+Thread 2876717888:
+    Words checked: 525048
+    Words already checked percentage: 25.5306 %
+    Secret word: 
+
+Thread 2868325184:
+    Words checked: 519687
+    Words already checked percentage: 24.9931 %
+    Secret word: 
+
+Thread 2885110592:
+    Words checked: 464979
+    Words already checked percentage: 25.5448 %
+    Secret word: 
+
+Thread 2858416960:
+    Words checked: 464422
+    Words already checked percentage: 23.2164 %
+    Secret word: 
+

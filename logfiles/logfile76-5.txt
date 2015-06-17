@@ -1,0 +1,25 @@
+Thread 2884938560:
+    Words checked: 326600
+    Words already checked percentage: 29.8175 %
+    Secret word: runkffxscslvqwvtvfolwymmxlkqo
+
+Thread 2868153152:
+    Words checked: 323639
+    Words already checked percentage: 27.5733 %
+    Secret word: 
+
+Thread 2857663296:
+    Words checked: 316457
+    Words already checked percentage: 26.4978 %
+    Secret word: 
+
+Thread 2893331264:
+    Words checked: 311338
+    Words already checked percentage: 26.2538 %
+    Secret word: 
+
+Thread 2876545856:
+    Words checked: 323782
+    Words already checked percentage: 29.3969 %
+    Secret word: 
+

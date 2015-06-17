@@ -1,0 +1,10 @@
+Thread 2885299008:
+    Words checked: 15000713
+    Words already checked percentage: 27.62 %
+    Secret word: dulchzmdbavblxlglvqdzgcoysmej
+
+Thread 2893691712:
+    Words checked: 15063755
+    Words already checked percentage: 27.4855 %
+    Secret word: 
+

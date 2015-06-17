@@ -1,0 +1,45 @@
+Thread 2855680832:
+    Words checked: 72591
+    Words already checked percentage: 28.1467 %
+    Secret word: dodpgebeamxdvfycdkdwvqeiuvusk
+
+Thread 2876660544:
+    Words checked: 69120
+    Words already checked percentage: 23.9005 %
+    Secret word: 
+
+Thread 2820655936:
+    Words checked: 63984
+    Words already checked percentage: 23.7216 %
+    Secret word: 
+
+Thread 2829048640:
+    Words checked: 69690
+    Words already checked percentage: 29.1089 %
+    Secret word: 
+
+Thread 2868267840:
+    Words checked: 70092
+    Words already checked percentage: 29.5198 %
+    Secret word: 
+
+Thread 2885053248:
+    Words checked: 68702
+    Words already checked percentage: 26.056 %
+    Secret word: 
+
+Thread 2893445952:
+    Words checked: 69133
+    Words already checked percentage: 24.7827 %
+    Secret word: 
+
+Thread 2845834048:
+    Words checked: 70227
+    Words already checked percentage: 29.9386 %
+    Secret word: 
+
+Thread 2837441344:
+    Words checked: 70063
+    Words already checked percentage: 25.7811 %
+    Secret word: 
+

@@ -1,0 +1,25 @@
+Thread 2885184320:
+    Words checked: 4160197
+    Words already checked percentage: 52.6317 %
+    Secret word: qozwfkmothoblzefupvbavdqkeoqi
+
+Thread 2868398912:
+    Words checked: 3789689
+    Words already checked percentage: 60.6405 %
+    Secret word: 
+
+Thread 2853714752:
+    Words checked: 3881962
+    Words already checked percentage: 61.5916 %
+    Secret word: 
+
+Thread 2893577024:
+    Words checked: 4231013
+    Words already checked percentage: 59.6881 %
+    Secret word: 
+
+Thread 2876791616:
+    Words checked: 4327993
+    Words already checked percentage: 55.8733 %
+    Secret word: 
+

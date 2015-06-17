@@ -1,0 +1,5 @@
+Thread 2892933952:
+    Words checked: 34329496
+    Words already checked percentage: 63.3885 %
+    Secret word: zaarazudpdvwgxevfqzyzhfcnmpcy
+

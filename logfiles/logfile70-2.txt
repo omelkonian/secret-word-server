@@ -1,0 +1,10 @@
+Thread 2893298496:
+    Words checked: 1170912
+    Words already checked percentage: 26.6156 %
+    Secret word: oircvurynqsjmuinnmrthfalwpuxo
+
+Thread 2884905792:
+    Words checked: 1158585
+    Words already checked percentage: 26.5137 %
+    Secret word: 
+

@@ -1,0 +1,5 @@
+Thread 2893105984:
+    Words checked: 34876118
+    Words already checked percentage: 62.8338 %
+    Secret word: lgyxmphthfjnulyzcodsoqhhikgzm
+

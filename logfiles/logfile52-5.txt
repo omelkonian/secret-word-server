@@ -1,0 +1,25 @@
+Thread 2877094720:
+    Words checked: 4642303
+    Words already checked percentage: 25.767 %
+    Secret word: grgybppbiqcwayfbmmcmszwltswik
+
+Thread 2868702016:
+    Words checked: 4535936
+    Words already checked percentage: 25.4354 %
+    Secret word: 
+
+Thread 2893880128:
+    Words checked: 4143960
+    Words already checked percentage: 24.9651 %
+    Secret word: 
+
+Thread 2885487424:
+    Words checked: 4658567
+    Words already checked percentage: 25.4306 %
+    Secret word: 
+
+Thread 2858212160:
+    Words checked: 4017683
+    Words already checked percentage: 25.4097 %
+    Secret word: 
+

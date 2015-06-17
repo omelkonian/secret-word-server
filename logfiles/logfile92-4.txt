@@ -1,0 +1,20 @@
+Thread 2893155136:
+    Words checked: 443144
+    Words already checked percentage: 28.4395 %
+    Secret word: fmkfrzcuvkatpanbpavgosnmuntzz
+
+Thread 2884762432:
+    Words checked: 441029
+    Words already checked percentage: 27.0325 %
+    Secret word: 
+
+Thread 2867977024:
+    Words checked: 439790
+    Words already checked percentage: 29.3752 %
+    Secret word: 
+
+Thread 2876369728:
+    Words checked: 443671
+    Words already checked percentage: 28.3703 %
+    Secret word: 
+
